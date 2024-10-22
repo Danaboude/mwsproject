@@ -1,8 +1,8 @@
 ﻿absl-py==1.2.0
 alabaster==0.7.12
 anaconda-client
-anaconda-navigator==1.10.0
-anaconda-project==0.8.3
+anaconda-navigator
+anaconda-project
 apyori==1.1.2
 argh==0.26.2
 argon2-cffi==21.3.0
